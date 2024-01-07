@@ -1,0 +1,864 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1704613159625654, "dur":53555, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613159679216, "dur":303, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613159679595, "dur":401, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613159680261, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tacvf72litn7.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159680502, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vgmbezd7cbod.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159680831, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8abw51zerud4.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159681106, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9bates9ie6qv.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159681329, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ovfvr7b9389o.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159681526, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/99r9z56tzngl.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159682241, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y1pn4z4bqu53.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159682484, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xikejomr83d3.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159682690, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9fm14qomtxra.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159682993, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i3glb231zkmh.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159683155, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ta7ry5osi8ih.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159683400, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5kgb5wfhjdzd.o" }}
+,{ "pid":12345, "tid":0, "ts":1704613159683814, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Filipe Eduardo/Desktop//Alura/Unity/apocalipse-zumbi-alura/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat" }}
+,{ "pid":12345, "tid":0, "ts":1704613159684224, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"PreprocessJS C:/Users/Filipe Eduardo/Desktop//Alura/Unity/Zumbi_Game/Build/Zumbi_Game.loader.js" }}
+,{ "pid":12345, "tid":0, "ts":1704613159680012, "dur":4306, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613159684323, "dur":2481071, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613162165400, "dur":371, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613162166068, "dur":3884, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1704613159681583, "dur":3307, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159684897, "dur":1583, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159686480, "dur":1008, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159687489, "dur":8798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159696301, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159696369, "dur":4150, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159700520, "dur":577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ICallRegistrationGenerator C:/Users/Filipe Eduardo/Desktop//Alura/Unity/apocalipse-zumbi-alura/Library/Bee/artifacts/WebGL/il2cppOutput/UnityICallRegistration.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159701159, "dur":7412, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159708639, "dur":83, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericInstDefinitions.c" }}
+,{ "pid":12345, "tid":1, "ts":1704613159708578, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/stvo26olqo0z.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159708865, "dur":143, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1704613159708830, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/02s2kn4uup73.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159709117, "dur":957, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCodeRegistration.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159710081, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159709089, "dur":1071, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vl74uo9qtucj.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159710238, "dur":1596, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__26.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159711846, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159710207, "dur":1708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/11ptlp337yal.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159712023, "dur":1462, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__2.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159713496, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159711979, "dur":1599, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8r7itt4b3osi.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159713660, "dur":373, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1704613159713628, "dur":428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3gss299l1ctp.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159714205, "dur":187, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1704613159714162, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tad3a7cj5cxh.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159714499, "dur":1424, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__13.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159715931, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159714469, "dur":1541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/oynx6kww5w9j.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159716104, "dur":1111, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__3.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159717221, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159716074, "dur":1215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9sy6dajb6kve.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159717385, "dur":492, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodDefinitions.c" }}
+,{ "pid":12345, "tid":1, "ts":1704613159717357, "dur":540, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h1rzrtfmmehz.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159718120, "dur":1785, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__14.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159719914, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159718085, "dur":1908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8b25cdjry3ir.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159720068, "dur":155, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib_CodeGen.c" }}
+,{ "pid":12345, "tid":1, "ts":1704613159720042, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y0ygqpkjkkyg.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159720338, "dur":986, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__27.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159721332, "dur":53, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159720309, "dur":1076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/299954j2b1r0.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159721465, "dur":626, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159722144, "dur":57, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159721436, "dur":765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5ckhupt514r5.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159722350, "dur":834, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__3.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159723190, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159722282, "dur":976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aoq2wjdq99ye.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159723343, "dur":496, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__30.cpp" }}
+,{ "pid":12345, "tid":1, "ts":1704613159723845, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704613159723313, "dur":592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ux7qyfbyqb1f.o" }}
+,{ "pid":12345, "tid":1, "ts":1704613159723943, "dur":2441709, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159680596, "dur":3859, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159684461, "dur":1013, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159685474, "dur":1065, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159686539, "dur":1504, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159688044, "dur":8333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159696378, "dur":4183, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159700562, "dur":8100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159708798, "dur":1334, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__15.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159710139, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159708664, "dur":1544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0d3nv5bfs7rp.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159710209, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159710322, "dur":690, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__46.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159711018, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159710293, "dur":800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vy6n75k2dne7.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159711198, "dur":1249, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159712455, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159711167, "dur":1375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kglnkas9ovdn.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159712609, "dur":665, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__14.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159713280, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159712582, "dur":762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fyzzfwxhpjg6.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159713345, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159713523, "dur":100, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextRenderingModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1704613159713479, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xz39njnrjapw.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159713717, "dur":612, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__65.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159714335, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159713689, "dur":716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/on3186l2f90d.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159714491, "dur":1038, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159715535, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159714462, "dur":1139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zk890fycwfgf.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159715673, "dur":382, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__1.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159716061, "dur":54, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159715645, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ieni2jaa105j.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159716193, "dur":1345, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__6.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159717546, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159716163, "dur":1462, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uir8il5qma0w.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159717693, "dur":586, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__64.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159718286, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159717665, "dur":727, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/37zdtx74clpu.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159718489, "dur":1716, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__41.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159720222, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159718455, "dur":1860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/27rqrihdxihq.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159720517, "dur":192, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreFontEngineModule_CodeGen.c" }}
+,{ "pid":12345, "tid":2, "ts":1704613159720485, "dur":249, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xj4mxl643l5h.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159720801, "dur":1053, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TilemapModule.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159721860, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159720772, "dur":1152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o4gcqeu1rqdv.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159722033, "dur":1702, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__5.cpp" }}
+,{ "pid":12345, "tid":2, "ts":1704613159723743, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704613159721974, "dur":1849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ce2i4aagj4c5.o" }}
+,{ "pid":12345, "tid":2, "ts":1704613159723875, "dur":2441588, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159680709, "dur":3821, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159684534, "dur":785, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159685319, "dur":2312, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159687632, "dur":8666, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159696299, "dur":4228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159700527, "dur":8056, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159708585, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j8s2izzk19ns.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159708800, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159708935, "dur":1482, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__48.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159710429, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159708899, "dur":1623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hmus7ufykd75.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159710783, "dur":918, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__7.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159711707, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159710715, "dur":1053, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1btn9h61inbg.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159711871, "dur":509, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1704613159711835, "dur":568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g1yfk2rphw0s.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159712564, "dur":912, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__8.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159713484, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159712459, "dur":1104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vwf1fmtkhpt4.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159713663, "dur":2068, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__56.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159715737, "dur":54, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159713605, "dur":2186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2066ftajgsd2.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159715870, "dur":1655, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159717538, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159715840, "dur":1776, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/70bd83k9tvng.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159717691, "dur":860, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__2.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159718559, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159717661, "dur":958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5abqoc1m9p8m.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159718703, "dur":1814, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__57.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159720523, "dur":59, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159718673, "dur":1909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ngavv2ogjgpl.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159720794, "dur":993, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__42.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159721794, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159720707, "dur":1167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nnve7rva06s9.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159721962, "dur":201, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule_CodeGen.c" }}
+,{ "pid":12345, "tid":3, "ts":1704613159721929, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w1849brpcl4l.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159722269, "dur":1164, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCTypeValuesTable.cpp" }}
+,{ "pid":12345, "tid":3, "ts":1704613159723439, "dur":51, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704613159722237, "dur":1253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7igfacasovad.o" }}
+,{ "pid":12345, "tid":3, "ts":1704613159723752, "dur":2441625, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159680962, "dur":3644, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159684610, "dur":849, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159685459, "dur":1304, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159686888, "dur":552, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.Diagnostics.StackTrace.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704613159686763, "dur":1493, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159688256, "dur":8029, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159696298, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159696397, "dur":4134, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159700532, "dur":8047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159708682, "dur":4154, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__16.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159712846, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159708582, "dur":4338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1ln4flsdw984.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159712995, "dur":1493, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__47.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159714497, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159712970, "dur":1614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/geacnfzzgbqq.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159714664, "dur":1641, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__17.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159716315, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159714632, "dur":1754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fftysbsk8hn9.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159716470, "dur":89, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericClassTable.c" }}
+,{ "pid":12345, "tid":4, "ts":1704613159716439, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ecx24l77z3sn.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159716658, "dur":1612, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__35.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159718276, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159716626, "dur":1741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nomoe3en7fyw.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159718449, "dur":849, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__66.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159719303, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159718413, "dur":968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/926pog0zixcx.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159719454, "dur":853, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__4.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159720316, "dur":83, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159719425, "dur":974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8u33iwavfk7x.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159720463, "dur":2235, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__8.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159722707, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159720435, "dur":2351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0dyke4xlsmnz.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159722787, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159723104, "dur":825, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__24.cpp" }}
+,{ "pid":12345, "tid":4, "ts":1704613159723941, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704613159723040, "dur":966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fe2ol08708hm.o" }}
+,{ "pid":12345, "tid":4, "ts":1704613159724039, "dur":2441468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159680633, "dur":3886, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159685064, "dur":630, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\lib\\modules\\WebGLSupport_UIElementsModule_Dynamic.a" }}
+,{ "pid":12345, "tid":5, "ts":1704613159684526, "dur":1647, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159686174, "dur":854, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159687028, "dur":1249, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159688277, "dur":8005, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159696374, "dur":4206, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159700581, "dur":8078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159708835, "dur":3146, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__10.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1704613159711987, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159708661, "dur":3408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2cv8osftjjns.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159712243, "dur":1211, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\__Generated_CodeGen.c" }}
+,{ "pid":12345, "tid":5, "ts":1704613159712170, "dur":1319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w6drfvsk39vl.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159713489, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159713647, "dur":617, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericMethodPointerTable.c" }}
+,{ "pid":12345, "tid":5, "ts":1704613159713585, "dur":715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ezfvwvz9g33h.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159714300, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159714483, "dur":379, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule_CodeGen.c" }}
+,{ "pid":12345, "tid":5, "ts":1704613159714407, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aen1r5bjg89d.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159714897, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159715027, "dur":2185, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1704613159717218, "dur":62, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159714977, "dur":2303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d5yox9pvvsor.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159717480, "dur":2131, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__20.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1704613159719620, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159717449, "dur":2253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nv77pslho61k.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159719703, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159719875, "dur":1683, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Core.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1704613159721564, "dur":63, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159719797, "dur":1830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j45z2bmue0d9.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159721732, "dur":2043, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__23.cpp" }}
+,{ "pid":12345, "tid":5, "ts":1704613159723786, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159721700, "dur":2186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uyy05quayk62.o" }}
+,{ "pid":12345, "tid":5, "ts":1704613159723886, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704613159723987, "dur":2441471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159682045, "dur":2969, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159685017, "dur":1255, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159687315, "dur":659, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\Facades\\System.ServiceModel.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704613159686273, "dur":2166, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159688440, "dur":7851, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159696299, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159696368, "dur":4157, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159700525, "dur":8168, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159708783, "dur":4656, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__3.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1704613159713455, "dur":117, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159708694, "dur":4878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/41an28457qyi.o" }}
+,{ "pid":12345, "tid":6, "ts":1704613159713573, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159713775, "dur":1742, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.HierarchyCoreModule.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1704613159715524, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159713722, "dur":1894, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ucevxhk2s6lh.o" }}
+,{ "pid":12345, "tid":6, "ts":1704613159715820, "dur":1291, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__5.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1704613159717116, "dur":57, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159715748, "dur":1425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qpyr2xz1ehrh.o" }}
+,{ "pid":12345, "tid":6, "ts":1704613159717250, "dur":50, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":6, "ts":1704613159717220, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/t2ibkkdm2j1e.o" }}
+,{ "pid":12345, "tid":6, "ts":1704613159717486, "dur":2804, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System__1.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1704613159720302, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159717422, "dur":2980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nc4udkqe00gz.o" }}
+,{ "pid":12345, "tid":6, "ts":1704613159720403, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159720567, "dur":2980, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__63.cpp" }}
+,{ "pid":12345, "tid":6, "ts":1704613159723552, "dur":58, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704613159720506, "dur":3104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2zfx8hr68i8e.o" }}
+,{ "pid":12345, "tid":6, "ts":1704613159723721, "dur":2441659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159682317, "dur":2745, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159685068, "dur":528, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Collections.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704613159685068, "dur":2858, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159687926, "dur":8444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159696371, "dur":4152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159700524, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json" }}
+,{ "pid":12345, "tid":7, "ts":1704613159700645, "dur":7950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159708646, "dur":975, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__62.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159709628, "dur":58, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159708596, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hkc9s8c95uwv.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159709902, "dur":391, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":7, "ts":1704613159709825, "dur":523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vv1kfp4h58jf.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159710349, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159710507, "dur":2431, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__34.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159712943, "dur":53, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159710445, "dur":2551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/28i0yt0p4rmd.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159713086, "dur":927, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__16.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159714020, "dur":56, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159713035, "dur":1041, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gjdukpxf3bws.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159714151, "dur":1763, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159715921, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159714124, "dur":1865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tlzmswjqgw3x.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159716346, "dur":2522, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159718874, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159716281, "dur":2675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p3j9t4ncbfln.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159718956, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159719129, "dur":1064, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__1.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159720199, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159719066, "dur":1231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4sjq10kv3xbc.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159720498, "dur":3383, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__12.cpp" }}
+,{ "pid":12345, "tid":7, "ts":1704613159723890, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159720439, "dur":3541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tacvf72litn7.o" }}
+,{ "pid":12345, "tid":7, "ts":1704613159723981, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704613159724042, "dur":2441347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159682349, "dur":2724, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159686899, "dur":1103, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\Microsoft.CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704613159685073, "dur":2994, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159688067, "dur":8246, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159696315, "dur":4214, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159700530, "dur":8123, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159708706, "dur":2207, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159710930, "dur":95, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159708653, "dur":2373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/47d9u0938icl.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159711027, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159711289, "dur":2025, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__14.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159713321, "dur":55, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159711252, "dur":2125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p67dr0cv9yqz.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159713464, "dur":1608, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__36.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159715078, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159713437, "dur":1707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/83pcuctka49f.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159715225, "dur":1115, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.IMGUIModule__1.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159716349, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159715194, "dur":1224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ew36peg3hv69.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159716489, "dur":1817, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__15.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159718320, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159716459, "dur":1961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tr5tsmxo1rua.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159718421, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159718533, "dur":1288, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCFieldValuesTable.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159719828, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159718483, "dur":1413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fczcsqd9m76y.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159719971, "dur":1476, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__21.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159721456, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159719942, "dur":1597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fx8p8ke5habj.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159721539, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159721706, "dur":2045, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__8.cpp" }}
+,{ "pid":12345, "tid":8, "ts":1704613159723763, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159721645, "dur":2225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2jd4txm0mpsv.o" }}
+,{ "pid":12345, "tid":8, "ts":1704613159723871, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704613159723966, "dur":2441651, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159681374, "dur":3386, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159686445, "dur":671, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":9, "ts":1704613159684764, "dur":2493, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159687258, "dur":9021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159696299, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159696375, "dur":4208, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159700584, "dur":8026, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159708765, "dur":3081, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__44.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159711856, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159708612, "dur":3309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9ajj7gq66wl8.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159711999, "dur":418, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AudioModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159712423, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159711971, "dur":553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w4pbkj46ertw.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159712591, "dur":1580, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__16.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159714195, "dur":111, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159712564, "dur":1742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/buvirp7qgpjy.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159714307, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159714461, "dur":2168, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__45.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159716640, "dur":107, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159714399, "dur":2348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uqm7mq439kxr.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159716748, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159716876, "dur":1354, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__22.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159718240, "dur":120, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159716827, "dur":1534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9ivcqhgdvwuj.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159718361, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159718706, "dur":2138, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIModule.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159720856, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159718654, "dur":2289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/0nc0iliofjo1.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159720944, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159721110, "dur":2497, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__19.cpp" }}
+,{ "pid":12345, "tid":9, "ts":1704613159723621, "dur":99, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159721049, "dur":2672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/12g3s0mgf8f8.o" }}
+,{ "pid":12345, "tid":9, "ts":1704613159723722, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1704613159723799, "dur":2441600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159681403, "dur":3364, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159685539, "dur":1375, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\UnityLinker.runtimeconfig.json" }}
+,{ "pid":12345, "tid":10, "ts":1704613159684771, "dur":2386, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159687157, "dur":841, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159687998, "dur":8320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159696319, "dur":4202, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159700525, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"ClassRegistrationGenerator C:/Users/Filipe Eduardo/Desktop//Alura/Unity/apocalipse-zumbi-alura/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159700720, "dur":7874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159708646, "dur":495, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__54.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159709156, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159708595, "dur":629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gdj2f4fn91k3.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159709300, "dur":1184, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__17.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159710496, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159709272, "dur":1303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/m1qsvu6azxko.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159710744, "dur":117, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1704613159710708, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w8mlcgevgyw3.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159710973, "dur":108, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1704613159710941, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3vxyeeikf3v5.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159711191, "dur":1385, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__9.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159712585, "dur":81, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159711156, "dur":1510, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gcjpvv7hkd5n.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159712752, "dur":91, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppGenericAdjustorThunkTable.c" }}
+,{ "pid":12345, "tid":10, "ts":1704613159712725, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ur7o0kxqofuv.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159712926, "dur":694, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__58.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159713635, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159712898, "dur":810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ooubgi5eni60.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159713804, "dur":1186, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__50.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159714995, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159713776, "dur":1303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ouolkwswwz41.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159715146, "dur":1139, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__7.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159716292, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159715119, "dur":1258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wk53xgswktek.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159716464, "dur":1193, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateTypeValues.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159717664, "dur":57, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159716432, "dur":1289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4108k7rmnruv.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159717810, "dur":704, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__21.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159718521, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159717770, "dur":832, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8abw51zerud4.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159718694, "dur":614, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__40.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159719315, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159718658, "dur":737, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1z79620etg0a.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159719513, "dur":1101, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__4.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159720623, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159719475, "dur":1233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ryyuo1vigg1l.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159720788, "dur":938, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__6.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159721735, "dur":108, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159720756, "dur":1088, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/98rwfxyoaz05.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159721844, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159722008, "dur":1154, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__13.cpp" }}
+,{ "pid":12345, "tid":10, "ts":1704613159723171, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159721971, "dur":1272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9fm14qomtxra.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159723325, "dur":165, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI_CodeGen.c" }}
+,{ "pid":12345, "tid":10, "ts":1704613159723295, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sre44n9o56pl.o" }}
+,{ "pid":12345, "tid":10, "ts":1704613159723627, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1704613159724637, "dur":620922, "ph":"X", "name": "7z",  "args": { "detail":"Library/Bee/artifacts/WebGL/webgl.data.unmarked" }}
+,{ "pid":12345, "tid":10, "ts":1704613160346160, "dur":93515, "ph":"X", "name": "GzipMarker",  "args": { "detail":"C:/Users/Filipe Eduardo/Desktop//Alura/Unity/Zumbi_Game/Build/Zumbi_Game.data.gz" }}
+,{ "pid":12345, "tid":10, "ts":1704613160439753, "dur":1725856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159680802, "dur":3793, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159684601, "dur":1083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159685684, "dur":1511, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159687221, "dur":9072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159696299, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159696383, "dur":4162, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159700546, "dur":8019, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159708630, "dur":68, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1704613159708567, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nejzjrwk32qh.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159708759, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159708879, "dur":1001, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__60.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159709888, "dur":62, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159708849, "dur":1102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vwo4sjidz43w.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159710030, "dur":625, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__11.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159710665, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159710001, "dur":731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8u86zxoof5bo.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159710814, "dur":1194, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__1.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159712015, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159710770, "dur":1337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n5a2dlofzu2f.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159712187, "dur":778, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__52.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159712971, "dur":54, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159712160, "dur":865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aicqklns3px0.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713098, "dur":112, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PhysicsModule_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713065, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d2gfs9i3gegt.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713306, "dur":112, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppRgctxTable.c" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713274, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5kgb5wfhjdzd.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713443, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713639, "dur":974, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__2.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159714619, "dur":62, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159713598, "dur":1083, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/m7fzi7fz8tez.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159714745, "dur":716, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInvokerTable.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159715469, "dur":70, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159714718, "dur":821, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hk4q52qwduui.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159715604, "dur":930, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__61.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159716540, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159715576, "dur":1029, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gcss8swa2sfg.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159716684, "dur":151, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule_CodeGen.c" }}
+,{ "pid":12345, "tid":11, "ts":1704613159716655, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/eqf90edr0chv.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159717030, "dur":1103, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__7.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159718139, "dur":77, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159716990, "dur":1226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y1pn4z4bqu53.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159718342, "dur":988, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159719348, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159718314, "dur":1094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6zqypi8bhxnf.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159719489, "dur":1586, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__9.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159721080, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159719458, "dur":1709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1li1yjekwo4e.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159721238, "dur":1024, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.PropertiesModule.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159722270, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159721210, "dur":1133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jbkkiihc5am5.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159722343, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159722446, "dur":1158, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp.cpp" }}
+,{ "pid":12345, "tid":11, "ts":1704613159723621, "dur":149, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1704613159722415, "dur":1356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/flqfzqnkfdgc.o" }}
+,{ "pid":12345, "tid":11, "ts":1704613159723817, "dur":2441580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159681506, "dur":3318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159685681, "dur":624, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\Unity.IL2CPP.Bee.BuildLogic.MacOSX.dll" }}
+,{ "pid":12345, "tid":12, "ts":1704613159684831, "dur":1725, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159686557, "dur":1678, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159688235, "dur":8061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159696299, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159696380, "dur":4184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159700565, "dur":8049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159708725, "dur":1683, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__9.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159710420, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159708616, "dur":1871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nzgs960xpd4e.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159710573, "dur":789, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__55.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159711368, "dur":59, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159710541, "dur":887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hl3i0jwld41i.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159711524, "dur":1210, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__1.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159712739, "dur":55, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159711496, "dur":1299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/kv7182mp61w3.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159712875, "dur":183, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__10.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159713069, "dur":85, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159712849, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gt7oh5v0l12p.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159713327, "dur":494, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataRegistration.c" }}
+,{ "pid":12345, "tid":12, "ts":1704613159713256, "dur":600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/l4nsitmkkbfe.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159713857, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159713966, "dur":1071, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__3.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159715044, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159713918, "dur":1204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/do7j388yexkd.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159715206, "dur":238, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AnimationModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1704613159715175, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/e94r1v0edudw.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159715554, "dur":1193, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159716758, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159715526, "dur":1325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bzrmo5hlx22s.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159716852, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159716977, "dur":770, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__17.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159717753, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159716928, "dur":899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1ygi0ybd6z7b.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159717906, "dur":767, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__11.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159718677, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159717878, "dur":875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/18adxeayope9.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159718847, "dur":880, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__18.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159719735, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159718818, "dur":983, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gndfdr8ick4o.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159719929, "dur":894, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreFontEngineModule.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159720830, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159719880, "dur":1028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xikejomr83d3.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159721141, "dur":895, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__4.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159722047, "dur":164, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159721084, "dur":1128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nl4rf83s3876.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159722213, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159722373, "dur":140, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule_CodeGen.c" }}
+,{ "pid":12345, "tid":12, "ts":1704613159722315, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v4lp0zj6aomi.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159722610, "dur":899, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule__2.cpp" }}
+,{ "pid":12345, "tid":12, "ts":1704613159723517, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159722579, "dur":999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p8mehazs6lnv.o" }}
+,{ "pid":12345, "tid":12, "ts":1704613159723579, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1704613159723743, "dur":2441638, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159681198, "dur":3496, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159684727, "dur":953, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159685680, "dur":1165, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159686845, "dur":1271, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159688116, "dur":8205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159696322, "dur":4228, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159700550, "dur":8043, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159708651, "dur":1639, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__2.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159710301, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159708593, "dur":1806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1xgnfj9wwif8.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159710400, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159710664, "dur":283, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule_CodeGen.c" }}
+,{ "pid":12345, "tid":13, "ts":1704613159710600, "dur":375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/x8ndtao4cj2x.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159711061, "dur":1370, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__2.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159712441, "dur":101, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159711025, "dur":1517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jm7ymzq842mz.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159712627, "dur":1589, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__25.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159714229, "dur":80, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159712598, "dur":1712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gmm55fp64az1.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159714310, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159714445, "dur":948, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__18.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159715399, "dur":55, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159714408, "dur":1046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/260ykesba2or.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159715552, "dur":260, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule_CodeGen.c" }}
+,{ "pid":12345, "tid":13, "ts":1704613159715521, "dur":312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7e2m8cjc9rs2.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159715904, "dur":2356, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__6.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159718266, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159715876, "dur":2496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xt56jkodmsoo.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159718467, "dur":1257, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputLegacyModule.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159719730, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159718417, "dur":1374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pxipg8xqle5c.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159719874, "dur":1086, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__11.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159720965, "dur":52, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159719843, "dur":1174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i3glb231zkmh.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159721126, "dur":1186, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__15.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159722318, "dur":89, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159721093, "dur":1314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fbtd09ghz9ed.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159722476, "dur":284, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration_CodeGen.c" }}
+,{ "pid":12345, "tid":13, "ts":1704613159722445, "dur":343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w92fnm7xdxsx.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159722934, "dur":752, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppUnresolvedIndirectCallStubs.cpp" }}
+,{ "pid":12345, "tid":13, "ts":1704613159723702, "dur":84, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1704613159722898, "dur":888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pol7a7p5qwj2.o" }}
+,{ "pid":12345, "tid":13, "ts":1704613159723832, "dur":2441695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1704613159682234, "dur":2821, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1704613159685200, "dur":537, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Diagnostics.DiagnosticSource.dll" }}
+,{ "pid":12345, "tid":14, "ts":1704613159685881, "dur":736, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Console.dll" }}
+,{ "pid":12345, "tid":14, "ts":1704613159685059, "dur":2589, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1704613159687648, "dur":8635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1704613159696293, "dur":54639, "ph":"X", "name": "ComputeLeafInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/il2cpp.a" }}
+,{ "pid":12345, "tid":14, "ts":1704613159750970, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" }}
+,{ "pid":12345, "tid":14, "ts":1704613159751118, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)" }}
+,{ "pid":12345, "tid":14, "ts":1704613159751333, "dur":362913, "ph":"X", "name": "Merging",  "args": { "detail":"JavaScript Code Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js" }}
+,{ "pid":12345, "tid":14, "ts":1704613160114427, "dur":2051116, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159682187, "dur":2857, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159685049, "dur":1853, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159687350, "dur":607, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\Managed\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1704613159686903, "dur":1555, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159688458, "dur":7832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159696300, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159696378, "dur":4178, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159700557, "dur":8060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159708753, "dur":960, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159709719, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159708619, "dur":1166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uwr70bq4644k.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159709862, "dur":1337, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__1.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159711211, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159709834, "dur":1456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4ve4b83up9ar.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159711364, "dur":962, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__19.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159712333, "dur":56, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159711332, "dur":1057, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8oexvj165ndn.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159712471, "dur":1050, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.CoreModule__2.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159713528, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159712441, "dur":1153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/pbisrhissxma.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159713674, "dur":1330, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__13.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159715011, "dur":87, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159713644, "dur":1454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nwyhx34tvf77.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159715172, "dur":1520, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__33.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159716701, "dur":51, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159715143, "dur":1609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/10yjeekr0p5x.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159716842, "dur":1319, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__20.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159718167, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159716812, "dur":1420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uh51sb07emzz.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159718305, "dur":1578, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__12.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159719894, "dur":100, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159718275, "dur":1719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/871kkb8npvav.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159720209, "dur":2184, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Configuration.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159722401, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159720177, "dur":2299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/oi3uae1g5zet.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159722549, "dur":1122, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.cpp" }}
+,{ "pid":12345, "tid":15, "ts":1704613159723679, "dur":93, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1704613159722520, "dur":1252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cgyosza3yif3.o" }}
+,{ "pid":12345, "tid":15, "ts":1704613159723814, "dur":2441782, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159681670, "dur":3241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159684915, "dur":754, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159686088, "dur":648, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityaot-linux\\System.Web.RegularExpressions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1704613159685669, "dur":2244, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159687914, "dur":8374, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159696321, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159696452, "dur":353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WebGL/boot.config" }}
+,{ "pid":12345, "tid":16, "ts":1704613159696844, "dur":3689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159700533, "dur":8031, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159708609, "dur":609, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__7.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159709225, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159708565, "dur":739, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uovkv6cmdncp.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159709377, "dur":1093, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__8.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159710478, "dur":75, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159709351, "dur":1202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xspkiw8uovvz.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159710686, "dur":346, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SpriteShapeModule_CodeGen.c" }}
+,{ "pid":12345, "tid":16, "ts":1704613159710651, "dur":413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/yy9n2q4ne8ob.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159711143, "dur":1116, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__6.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159712266, "dur":63, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159711113, "dur":1216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gwpzt8r4fzzw.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159712428, "dur":1743, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__13.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159714187, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159712392, "dur":1893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uiwb0mjkmv4m.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159714374, "dur":377, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppInteropDataTable.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159714757, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159714334, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/43oftasvilar.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159714889, "dur":1625, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__59.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159716522, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159714860, "dur":1726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/93xzvrjcq6hk.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159716663, "dur":1049, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__53.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159717721, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159716625, "dur":1189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vxfe0u1p6d9j.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159717891, "dur":1076, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__12.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159718973, "dur":64, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159717863, "dur":1174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3ik9qbiz28x0.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159719212, "dur":1393, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__28.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159720615, "dur":63, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159719173, "dur":1506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/npdyleyzep3j.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159720783, "dur":1533, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159722324, "dur":98, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159720734, "dur":1688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/clgtfhkaxze5.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159722491, "dur":513, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.Xml.cpp" }}
+,{ "pid":12345, "tid":16, "ts":1704613159723011, "dur":56, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159722460, "dur":607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hge6pozjzexw.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159723149, "dur":269, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.Physics2DModule_CodeGen.c" }}
+,{ "pid":12345, "tid":16, "ts":1704613159723116, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3wb7vl3yva8c.o" }}
+,{ "pid":12345, "tid":16, "ts":1704613159723649, "dur":27644, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1704613159751358, "dur":2322183, "ph":"X", "name": "7z",  "args": { "detail":"Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.wasm.unmarked" }}
+,{ "pid":12345, "tid":16, "ts":1704613162073637, "dur":91501, "ph":"X", "name": "GzipMarker",  "args": { "detail":"C:/Users/Filipe Eduardo/Desktop//Alura/Unity/Zumbi_Game/Build/Zumbi_Game.wasm.gz" }}
+,{ "pid":12345, "tid":17, "ts":1704613159680467, "dur":3863, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159684334, "dur":11934, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159696385, "dur":615, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/Filipe Eduardo/Desktop//Alura/Unity/apocalipse-zumbi-alura/Library/Bee/artifacts/unitylinker_ber2.traceevents" }}
+,{ "pid":12345, "tid":17, "ts":1704613159697001, "dur":1138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159700521, "dur":610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"IL2CPP_CodeGen C:/Users/Filipe Eduardo/Desktop//Alura/Unity/apocalipse-zumbi-alura/Library/Bee/artifacts/il2cpp_conv_rlln.traceevents" }}
+,{ "pid":12345, "tid":17, "ts":1704613159701132, "dur":4836, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159708596, "dur":970, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__1.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159709573, "dur":56, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159708563, "dur":1066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r0jf3je376re.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159709739, "dur":532, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159710277, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159709700, "dur":645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hd5t09vx0nnp.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159710441, "dur":982, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__6.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159711429, "dur":54, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159710411, "dur":1072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/b51fi7dzh520.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159711651, "dur":1154, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__10.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159712812, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159711621, "dur":1257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hvw4qmn3vi51.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159712948, "dur":1164, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__51.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159714117, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159712922, "dur":1262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/99r9z56tzngl.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159714309, "dur":998, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__49.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159715312, "dur":53, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159714264, "dur":1101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/21xgn4tvn1ip.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159715450, "dur":954, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__4.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159716413, "dur":66, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159715420, "dur":1059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/phebiij3afa2.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159716479, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159716584, "dur":1528, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__3.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159718124, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159716547, "dur":1675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2503zypv0kwn.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159718222, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159718394, "dur":1282, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__14.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159719682, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159718359, "dur":1383, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uvppk02jwl3t.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159719895, "dur":750, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro__3.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159720655, "dur":90, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159719841, "dur":905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/qqee4lfkcek6.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159720746, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159720877, "dur":1057, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159721941, "dur":59, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159720836, "dur":1164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wizcolnbcowz.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159722001, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159722251, "dur":728, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__31.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159722984, "dur":67, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159722215, "dur":839, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/v5r7ivrwudiv.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159723152, "dur":799, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__1.cpp" }}
+,{ "pid":12345, "tid":17, "ts":1704613159723957, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1704613159723120, "dur":915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1rcb3x11552f.o" }}
+,{ "pid":12345, "tid":17, "ts":1704613159724071, "dur":2441317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159681833, "dur":3155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159685192, "dur":755, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Cryptography.Encoding.dll" }}
+,{ "pid":12345, "tid":18, "ts":1704613159686123, "dur":727, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.Serialization.Primitives.dll" }}
+,{ "pid":12345, "tid":18, "ts":1704613159686851, "dur":580, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.Serialization.Json.dll" }}
+,{ "pid":12345, "tid":18, "ts":1704613159684995, "dur":2593, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159687588, "dur":8692, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159696299, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159696467, "dur":4071, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159700543, "dur":8046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159708880, "dur":72, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\System_CodeGen.c" }}
+,{ "pid":12345, "tid":18, "ts":1704613159708960, "dur":82, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159708592, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c4bqgxpceduf.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159709133, "dur":924, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__4.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159710065, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159709105, "dur":1021, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/u81utjx8886x.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159710201, "dur":975, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__32.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159711185, "dur":76, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159710171, "dur":1090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/glvvy45tx1te.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159711332, "dur":1105, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__5.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159712446, "dur":92, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159711303, "dur":1235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vgmbezd7cbod.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159712655, "dur":235, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppMetadataUsage.c" }}
+,{ "pid":12345, "tid":18, "ts":1704613159712624, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jgnk3zjr0c16.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159712917, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159713021, "dur":1238, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.SharedInternalsModule.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159714266, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159712986, "dur":1372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rw0gpvszf7fq.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159714443, "dur":1839, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppReversePInvokeWrapperTable.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159716289, "dur":71, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159714405, "dur":1955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/al6ui872va5c.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159716514, "dur":978, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__9.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159717498, "dur":105, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159716478, "dur":1126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i8s8x5msrj7i.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159717743, "dur":1258, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppCCalculateFieldValues.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159719008, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159717709, "dur":1369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/und0ne2zod14.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159719145, "dur":1057, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__29.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159720208, "dur":113, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159719118, "dur":1203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/84gm1ncxhdf3.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159720405, "dur":251, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Mono.Security_CodeGen.c" }}
+,{ "pid":12345, "tid":18, "ts":1704613159720377, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cu0jvzw2veco.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159720760, "dur":994, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159721763, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159720721, "dur":1114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7nq2n0nwuwla.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159722003, "dur":1260, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.AnimationModule.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159723269, "dur":52, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159721969, "dur":1353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/a9sx1f2ceth9.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159723395, "dur":561, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Unity.TextMeshPro.cpp" }}
+,{ "pid":12345, "tid":18, "ts":1704613159723967, "dur":65, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159723369, "dur":664, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nan239t94a7n.o" }}
+,{ "pid":12345, "tid":18, "ts":1704613159724033, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1704613159724094, "dur":2441297, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159681906, "dur":3099, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159685493, "dur":651, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.CompilerServices.VisualC.dll" }}
+,{ "pid":12345, "tid":19, "ts":1704613159687109, "dur":824, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity 2023.2.4f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Private.Xml.dll" }}
+,{ "pid":12345, "tid":19, "ts":1704613159685009, "dur":2924, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159687934, "dur":8438, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159696373, "dur":4173, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159700547, "dur":8049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159708654, "dur":297, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Assembly-CSharp_CodeGen.c" }}
+,{ "pid":12345, "tid":19, "ts":1704613159708597, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nohovbh3nd6m.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159709069, "dur":430, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.TextCoreTextEngineModule_CodeGen.c" }}
+,{ "pid":12345, "tid":19, "ts":1704613159709037, "dur":483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rwponbia7aa2.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159709616, "dur":1007, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__37.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159710631, "dur":68, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159709586, "dur":1114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9bates9ie6qv.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159710771, "dur":1411, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__5.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159712189, "dur":73, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159710742, "dur":1520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ta7ry5osi8ih.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159712335, "dur":667, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__2.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159713008, "dur":57, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159712307, "dur":758, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/odviy04d3wjv.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159713147, "dur":1216, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__10.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159714369, "dur":146, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159713109, "dur":1407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nf5ikoarch04.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159714627, "dur":1029, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\GenericMethods__18.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159715662, "dur":54, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159714592, "dur":1124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/n9a9fan92z13.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159715797, "dur":1353, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__5.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159717155, "dur":57, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159715764, "dur":1448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/807fvhiq6wjq.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159717311, "dur":904, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\__Generated.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159718223, "dur":72, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159717280, "dur":1015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cmb9w8eihnrr.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159718295, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159718507, "dur":1489, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__3.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159720001, "dur":56, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159718456, "dur":1601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7mjnyguwbiqi.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159720216, "dur":1650, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__11.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159721872, "dur":74, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159720142, "dur":1804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nsyw41tqm7yb.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159722037, "dur":1114, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__17.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159723159, "dur":69, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159722004, "dur":1225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w9y66ylojdvh.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159723322, "dur":664, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__15.cpp" }}
+,{ "pid":12345, "tid":19, "ts":1704613159723994, "dur":56, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1704613159723287, "dur":764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/amb269qscn2i.o" }}
+,{ "pid":12345, "tid":19, "ts":1704613159724090, "dur":2441520, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159682157, "dur":2869, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159685032, "dur":1492, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159686524, "dur":1683, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159688207, "dur":8169, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159696376, "dur":4206, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159700583, "dur":8072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159709204, "dur":825, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__38.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710035, "dur":78, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159708657, "dur":1456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/urdhu1nghu2e.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710160, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7u1qrlzm1tyt.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710353, "dur":402, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__12.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710762, "dur":60, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710318, "dur":505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/moe1coovrdqs.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710893, "dur":1373, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__16.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159712274, "dur":61, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159710863, "dur":1472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uzpad2dn5tbq.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159712456, "dur":200, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Il2CppTypeDefinitions.c" }}
+,{ "pid":12345, "tid":20, "ts":1704613159712395, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7js1hj88clzu.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159712785, "dur":1375, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UIElementsModule__1.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159714168, "dur":91, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159712756, "dur":1503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gidzz9uztu3o.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159714322, "dur":2982, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\mscorlib__7.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159717310, "dur":120, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159714294, "dur":3136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/fyuwyujopybg.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159717521, "dur":1164, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__39.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159718693, "dur":79, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159717479, "dur":1293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vzxxeh4elwju.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159718842, "dur":1265, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.GridModule.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159720112, "dur":50, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159718815, "dur":1347, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/23okshwojsqx.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159720237, "dur":859, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.UI__2.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159721103, "dur":86, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159720209, "dur":980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s83vnzu1b98t.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159721261, "dur":1096, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\Generics__43.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159722365, "dur":96, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159721230, "dur":1231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ovfvr7b9389o.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159722651, "dur":1028, "ph":"X", "name": "ScanImplicitDeps",  "args": { "detail":"C:\\Users\\Filipe Eduardo\\Desktop\\\\Alura\\Unity\\apocalipse-zumbi-alura\\Library\\Bee\\artifacts\\WebGL\\il2cppOutput\\cpp\\UnityEngine.InputForUIModule.cpp" }}
+,{ "pid":12345, "tid":20, "ts":1704613159723685, "dur":97, "ph":"X", "name": "ImplicitDepsSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1704613159722620, "dur":1162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rlh5l6upe0bi.o" }}
+,{ "pid":12345, "tid":20, "ts":1704613159723822, "dur":2441751, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704613162172440, "dur":1400, "ph":"X", "name": "ProfilerWriteOutput" }
+,
