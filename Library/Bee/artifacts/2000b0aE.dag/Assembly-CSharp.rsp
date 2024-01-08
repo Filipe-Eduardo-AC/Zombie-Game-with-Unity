@@ -336,6 +336,7 @@
 -r:"C:/Program Files/Unity 2023.2.4f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"C:/Program Files/Unity 2023.2.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit@2.0.5/net40/unity-custom/nunit.framework.dll"
+-r:"Library/Bee/artifacts/2000b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
@@ -348,6 +349,7 @@
 "Assets/Scripts/ControlaArma.cs"
 "Assets/Scripts/ControlaCamera.cs"
 "Assets/Scripts/ControlaInimigo.cs"
+"Assets/Scripts/ControlaInterface.cs"
 "Assets/Scripts/ControlaJogador.cs"
 "Assets/Scripts/GeradorZumbis.cs"
 -langversion:9.0
