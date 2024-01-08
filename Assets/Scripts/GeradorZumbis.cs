@@ -22,7 +22,7 @@ public class GeradorZumbis : MonoBehaviour
 
         if (contadorTempo >= TempoGerarZumbi)
         {
-            ZumbiRows = Random.Range(1, 4);
+            ZumbiRows = Random.Range(1, 3);
 
             while (ZumbiRows > 0)
             {
