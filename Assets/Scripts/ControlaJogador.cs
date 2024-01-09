@@ -14,6 +14,7 @@ public class ControlaJogador : MonoBehaviour
     private Animator animatorJogador;
     public int Vida = 100;
     public ControlaInterface scriptControlaInterface;
+    public AudioClip SomDeDano;
 
     public void Start()
     {
@@ -78,6 +79,7 @@ public class ControlaJogador : MonoBehaviour
     {
         Vida -= dano;
         scriptControlaInterface.AtualizarSliderVidaJogador();
+        ControlaAudio.instancia.PlayOneShot(SomDeDano);
 
         if (Vida <= 0)
         {
