@@ -347,6 +347,7 @@
 -analyzer:"C:/Program Files/Unity 2023.2.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/Bala.cs"
 "Assets/Scripts/ControlaArma.cs"
+"Assets/Scripts/ControlaAudio.cs"
 "Assets/Scripts/ControlaCamera.cs"
 "Assets/Scripts/ControlaInimigo.cs"
 "Assets/Scripts/ControlaInterface.cs"
