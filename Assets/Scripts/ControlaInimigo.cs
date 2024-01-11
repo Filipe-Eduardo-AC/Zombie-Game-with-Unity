@@ -2,25 +2,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ControlaInimigo : MonoBehaviour
+public class ControlaInimigo : MonoBehaviour, IMatavel
 {
     public GameObject Jogador;
-    public float Velocidade = 5;
     private Rigidbody rigidbodyInimigo;
-    private Animator animatorInimigo;
+    private MovimentoPersonagem movimentoInimigo;
+    private AnimacaoPersonagem animacaoInimigo;
+    private Status statusInimigo;
+    public AudioClip SomDeMorte;
 
     // Start is called before the first frame update
     void Start()
     {
         Jogador = GameObject.FindWithTag("Jogador");
         rigidbodyInimigo = GetComponent<Rigidbody>();
-        animatorInimigo = GetComponent<Animator>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        animacaoInimigo = GetComponent<AnimacaoPersonagem>(); 
+        movimentoInimigo = GetComponent<MovimentoPersonagem>();
+        statusInimigo = GetComponent<Status>();
     }
 
     void FixedUpdate()
@@ -29,19 +27,17 @@ public class ControlaInimigo : MonoBehaviour
 
         Vector3 direcao = Jogador.transform.position - transform.position;
 
-        Quaternion novaRotacao = Quaternion.LookRotation(direcao);
-        rigidbodyInimigo.MoveRotation(novaRotacao);
+        movimentoInimigo.Rotacionar(direcao);
 
         if (distancia > 2.5)
         {
-            rigidbodyInimigo.MovePosition
-                (rigidbodyInimigo.position + direcao.normalized * Velocidade * Time.deltaTime);
+            movimentoInimigo.Movimentar(direcao, statusInimigo.Velocidade);
 
-            animatorInimigo.SetBool("Atacando", false);
+            animacaoInimigo.Atacar(false);
         }
         else
         {
-            animatorInimigo.SetBool("Atacando", true);
+            animacaoInimigo.Atacar(true);
         }
     }
 
@@ -50,5 +46,20 @@ public class ControlaInimigo : MonoBehaviour
         int dano = Random.Range(20, 31);
 
         Jogador.GetComponent<ControlaJogador>().TomarDano(dano);
+    }
+
+    public void TomarDano(int dano)
+    {
+        statusInimigo.Vida -= dano;
+        if (statusInimigo.Vida <= 0)
+        {
+            Morrer();
+        }
+    }
+
+    public void Morrer()
+    {
+        Destroy(gameObject);
+        ControlaAudio.instancia.PlayOneShot(SomDeMorte);
     }
 }
