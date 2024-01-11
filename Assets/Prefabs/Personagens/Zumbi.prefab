@@ -570,6 +570,9 @@ GameObject:
   - component: {fileID: 3447576387196581456}
   - component: {fileID: 3495258175442526277}
   - component: {fileID: 3553472108637387220}
+  - component: {fileID: -2822917906046455422}
+  - component: {fileID: 8146621714735491353}
+  - component: {fileID: -1908124219953797373}
   m_Layer: 0
   m_Name: Zumbi
   m_TagString: Inimigo
@@ -678,7 +681,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Jogador: {fileID: 0}
-  Velocidade: 5
+  SomDeMorte: {fileID: 8300000, guid: 3c52bbc442db3a3478f4a6a50ed5531b, type: 3}
 --- !u!54 &3553472108637387220
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -706,6 +709,45 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 116
   m_CollisionDetection: 0
+--- !u!114 &-2822917906046455422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1063500868937916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3e7f013049cfc42ba98b88c50616c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8146621714735491353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1063500868937916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c591d0e3891e644a9ac0745ad8a508d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-1908124219953797373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1063500868937916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a333dfe3d093f847be2e05e39bca87a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  VidaInicial: 1
+  Vida: 0
+  Velocidade: 5
 --- !u!1 &1065480718027956
 GameObject:
   m_ObjectHideFlags: 0

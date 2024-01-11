@@ -345,6 +345,7 @@
 -analyzer:"C:/Program Files/Unity 2023.2.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2023.2.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity 2023.2.4f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/AnimacaoPersonagem.cs"
 "Assets/Scripts/Bala.cs"
 "Assets/Scripts/ControlaArma.cs"
 "Assets/Scripts/ControlaAudio.cs"
@@ -353,6 +354,10 @@
 "Assets/Scripts/ControlaInterface.cs"
 "Assets/Scripts/ControlaJogador.cs"
 "Assets/Scripts/GeradorZumbis.cs"
+"Assets/Scripts/IMatavel.cs"
+"Assets/Scripts/MovimentoJogador.cs"
+"Assets/Scripts/MovimentoPersonagem.cs"
+"Assets/Scripts/Status.cs"
 -langversion:9.0
 
 /deterministic
