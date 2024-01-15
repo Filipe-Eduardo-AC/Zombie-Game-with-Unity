@@ -7,7 +7,7 @@ public class Bala : MonoBehaviour
     public float Velocidade = 20;
     private Rigidbody rigidbodyBala;
     public AudioClip SomDeMorte;
-    private int danoDoTiro = 1
+    private int danoDoTiro = 1;
 
     private void Start()
     {

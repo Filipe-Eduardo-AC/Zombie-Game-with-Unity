@@ -6,14 +6,9 @@ public class GeradorZumbis : MonoBehaviour
 {
     public GameObject Zumbi;
     private float contadorTempo = 0;
-    public float TempoGerarZumbi = 2;
+    public float TempoGerarZumbi = 5;
     public float ZumbiRows = 0;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public LayerMask LayerZumbi;
 
     // Update is called once per frame
     void Update()
@@ -26,11 +21,34 @@ public class GeradorZumbis : MonoBehaviour
 
             while (ZumbiRows > 0)
             {
-                Instantiate(Zumbi, transform.position, transform.rotation);
-
+                StartCoroutine(GerarNovoZumbi());
                 contadorTempo = 0;
                 ZumbiRows--;
             }            
         }               
+    }
+
+    IEnumerator GerarNovoZumbi()
+    {
+        Vector3 posicaoDeCriacao = AleatorizarPosicao();
+        Collider[] colisores = Physics.OverlapSphere(posicaoDeCriacao, 1, LayerZumbi);
+
+        while (colisores.Length > 0)
+        {
+            posicaoDeCriacao = AleatorizarPosicao();
+            colisores = Physics.OverlapSphere(posicaoDeCriacao, 1, LayerZumbi);
+            yield return null;
+        }
+
+        Instantiate(Zumbi, posicaoDeCriacao, transform.rotation);
+    }
+
+    Vector3 AleatorizarPosicao()
+    {
+        Vector3 posicao = Random.insideUnitSphere * 2;
+        posicao += transform.position;
+        posicao.y = 0;
+
+        return posicao;
     }
 }
